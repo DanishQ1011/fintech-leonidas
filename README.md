@@ -1,6 +1,6 @@
 # Fintech Leonidas
 
-#### Video Demo: [Watch the Demo](<(https://www.youtube.com/watch?v=wqf80BZ7PrY)>)
+#### Video Demo: (<(https://www.youtube.com/watch?v=wqf80BZ7PrY)>)
 
 #### Description:
 
