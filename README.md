@@ -1,10 +1,12 @@
 # Fintech Leonidas
 
-#### Video Demo: (https://www.youtube.com/watch?v=wqf80BZ7PrY)
+#### Video Demo: https://www.youtube.com/watch?v=wqf80BZ7PrY
 
 #### Description:
 
 **Fintech Leonidas** is a modern banking web application designed to help users manage their finances efficiently. The platform allows users to link multiple bank accounts and retrieve their transaction history in real-time. With seamless integration of various financial services and tools, this project aims to provide an easy-to-use interface for users to monitor their financial activities.
+
+![Fintech Leonidas Dashboard](https://i.ibb.co/XygKnP8/Screenshot-2024-09-14-171449.png)
 
 ### Key Features:
 
